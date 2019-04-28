@@ -9,15 +9,15 @@
             </ol>
 
             <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
+            <div class="carousel-inner" style="height:95%" role="listbox">
                 <div class="item active">
-                <img src="http://www.emobile.com.br/site/wp-content/uploads/2016/09/Colaborativa_Banner_3x2-11.jpg" alt="...">
+                <img src="https://radiohuancavilca.com.ec/wp-content/uploads/2019/02/Economi%CC%81a-Colaborativa-1.png" alt="..." >
                 <div class="carousel-caption">
                 Economia colaborativa 1
                 </div>
                 </div>
                 <div class="item">
-                <img src="http://www.emobile.com.br/site/wp-content/uploads/2016/09/Colaborativa_Banner_3x2-11.jpg"  alt="...">
+                <img src="https://radiohuancavilca.com.ec/wp-content/uploads/2019/02/Economi%CC%81a-Colaborativa-1.png"  alt="..." >
                 <div class="carousel-caption">
                     Economia colaborativa 2
                 </div>
